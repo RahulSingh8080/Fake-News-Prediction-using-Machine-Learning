@@ -64,9 +64,21 @@ You can install these dependencies using pip:
 
 pip install pandas numpy matplotlib scikit-learn seaborn re
 
+Usage
 
+Clone this repository to your local machine:
 
+git clone https://github.com/RahulSingh8080/Fake-News-Prediction-using-Machine-Learning.git
 
+Navigate to the project directory:
+
+cd Fake-News-Prediction-using-Machine-Learning
+
+Run the model script:
+
+python random_forest_classifier.py
+
+The code will produce evaluation metrics and provide a prediction for whether the given news is true or false based on the trained model.
 
 Results
 
@@ -96,5 +108,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 
-For any queries or discussions, feel free to reach out via LinkedIn or raise an issue on GitHub.
+For any queries or discussions, feel free to reach out via GitHub or raise an issue on GitHub.
 
